@@ -1,0 +1,20 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.dialoguslabs.com/security
+note: >-
+  No OpenAPI/AsyncAPI is published for Dialogus yet, so cross-cutting technical
+  standards (oauth2, oidc, rfc9457, pagination, idempotency) cannot be derived.
+  The only conformance claim the provider publishes is SOC 2, stated on the
+  security page.
+standards:
+- id: soc2
+  conforms: true
+  evidence: dialoguslabs.com/security repeatedly states "SOC 2 compliant AI voice agents for live operations"
+- id: iso27001
+  conforms: false
+- id: hipaa
+  conforms: false
+- id: pci-dss
+  conforms: false
+- id: gdpr
+  conforms: false
