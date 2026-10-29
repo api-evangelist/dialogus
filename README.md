@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Dialogus is a company surfaced as a portfolio company of y-combinator and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Dialogus is a frontier AI voice lab building infrastructure for enterprise-grade voice agents that resolve, trace, and control every live conversation across phone systems, internal workflows, and customer systems. Its platform connects voice agents to phone systems, internal tools, databases, CRMs, and messaging channels, with human escalation flows, monitoring, and compliance built in. Agents run a Listen, Reason, Act, and Report loop that detects turns, silence, and intent, constrains the model with workflow state and policies, executes approved tools, and produces auditable transcripts and outcomes. Dialogus targets live customer support, phone order-taking into the POS, and past-due collections, and positions itself as SOC 2 compliant for live operations. Founded by ex-Google, Meta, and Microsoft engineers, it is a Y Combinator Summer 2026 company based in San Francisco.
 
-Backed by: y-combinator
+**Areas:** Company · Voice Agents · AI Agents · Conversational AI · Customer Service · Contact Center · Collection · Compliance
+
+## Dialogus on APIs.io
+
+Everything profiled for Dialogus is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/dialogus/](https://apis.io/providers/dialogus/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Dialogus Domain Security](https://apis.io/security/dialogus/dialogus-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.dialoguslabs.com/)
+- [Support](https://www.dialoguslabs.com/help)
+- [Security](https://www.dialoguslabs.com/security)
+- [Compliance](https://www.dialoguslabs.com/security)
+- [Terms of service](https://www.dialoguslabs.com/terms-and-conditions)
+- [Privacy policy](https://www.dialoguslabs.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 15.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 28.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 23.5** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/dialogus/](https://apis.io/providers/dialogus/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Dialogus: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/dialogus/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
